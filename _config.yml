@@ -1,7 +1,7 @@
 name: Aaron Grant Theatrical
 favicon: null
-layout_spectrum: 0.67492
-typography_spectrum: 0.79705
+layout_spectrum: 0.35825125966221094
+typography_spectrum: 0.38404791080392897
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f0ecd9'
-    - '#886c56'
-    - '#a58b69'
-    - '#7b2d1c'
-    - '#b14931'
-  brandStrength: 0.8125
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5386195397004485
   lightness: 0.03142028604634106
-  saturation: 0.5
-  rhythmicContrast: 0.75
+  saturation: 0.2484992330428213
+  rhythmicContrast: 0.6552021794486791
 purpose: []
